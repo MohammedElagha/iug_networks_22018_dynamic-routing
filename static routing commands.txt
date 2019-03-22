@@ -1,0 +1,6 @@
+enable
+config t
+router rip
+network (directly connected network address)
+exit
+do wr
